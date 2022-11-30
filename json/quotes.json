@@ -1,0 +1,204 @@
+  {
+    "quotes":[
+        {
+            "id":1,
+            "quote":"To live is to suffer, to survive is to find some meaning in the suffering.",
+            "author":"Friedrich Nietzsche"
+        },
+        {
+            "id":2,
+            "quote":"Knowing yourself is the beginning of all wisdom.",
+            "author":"Aristotle "
+        },
+        {
+            "id":3,
+            "quote":"What is a friend? A single soul dwelling in two bodies.",
+            "author":"Aristotle "
+        },
+        {
+            "id":4,
+            "quote":"Anyone who has never made a mistake has never tried anything new.",
+            "author":" Albert Einstein "
+        },
+        {
+            "id":5,
+            "quote":"When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.",
+            "author":" Albert Einstein "
+        },
+        {
+            "id":6,
+            "quote":"You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.",
+            "author":"Guts"
+        },
+        {
+            "id":7,
+            "quote":"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.",
+            "author":" Steve Jobs "
+        },
+        {
+            "id":8,
+            "quote":"Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.",
+            "author":" Steve Jobs"
+        },
+        {
+            "id":9,
+            "quote":"Be nice to nerds. Chances are you’ll end up working for one.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":10,
+            "quote":"Success is a lousy teacher. It seduces smart people into thinking they can’t lose.",
+            "author":" Bill Gates"
+        },
+        {
+            "id":11,
+            "quote":"Educating the mind without educating the heart is no education at all.",
+            "author":" Aristotle"
+        },
+        {
+            "id":12,
+            "quote":"Hope is a waking dream.",
+            "author":" Aristotle"
+        },
+        {
+            "id":13,
+            "quote":"No great mind has ever existed without a touch of madness.",
+            "author":" Aristotle"
+        },
+        {
+            "id":14,
+            "quote":"Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny.",
+            "author":" Aristotle"
+        },
+        {
+            "id":15,
+            "quote":"A friend to all is a friend to none.",
+            "author":" Aristotle"
+        },
+        {
+            "id":16,
+            "quote":"Anybody can become angry — that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way — that is not within everybody's power and is not easy.",
+            "author":" Aristotle"
+        },
+        {
+            "id":17,
+            "quote":"Happiness is the meaning and the purpose of life, the whole aim and end of human existence.",
+            "author":" Aristotle"
+        },
+        {
+            "id":18,
+            "quote":"Patience is bitter, but its fruit is sweet.",
+            "author":" Aristotle"
+        },
+        {
+            "id":19,
+            "quote":"The educated differ from the uneducated as much as the living differ from the dead.",
+            "author":" Aristotle"
+        },
+        {
+            "id":20,
+            "quote":"Poverty is the parent of revolution and crime.",
+            "author":" Aristotle"
+        },
+        {
+            "id":21,
+            "quote":"Pleasure in the job puts perfection in the work.",
+            "author":" Aristotle"
+        },
+        {
+            "id":22,
+            "quote":"Without music, life would be a mistake.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":23,
+            "quote":"I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":24,
+            "quote":"Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":25,
+            "quote":"There is always some madness in love. But there is also always some reason in madness.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":26,
+            "quote":"There are no facts, only interpretations.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":27,
+            "quote":"The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":28,
+            "quote":"The snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":29,
+            "quote":"No one can construct for you the bridge upon which precisely you must cross the stream of life, no one but you yourself alone.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":30,
+            "quote":"The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike than those who think differently.",
+            "author":" Friedrich Nietzsche"
+        },
+        {
+            "id":31,
+            "quote":"I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":32,
+            "quote":"If you can't make it good, at least make it look good.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":33,
+            "quote":"Most people overestimate what they can do in one year and underestimate what they can do in ten years.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":34,
+            "quote":"If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":35,
+            "quote":"Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":36,
+            "quote":"It's fine to celebrate success but it is more important to heed the lessons of failure.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":37,
+            "quote":"Power comes not from knowledge kept but from knowledge shared.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":38,
+            "quote":"The cruel injustice is that even though the world’s poor are doing essentially nothing to cause climate change, they’re going to suffer the most from it.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":39,
+            "quote":"Some people may call me a nerd. I claim the label with pride.",
+            "author":" Bill Gates "
+        },
+        {
+            "id":40,
+            "quote":"I believe that if you show people the problems and you show Them The Solutions They Will Be Moved To Act",
+            "author":" Bill Gates "
+        }
+    ]
+}

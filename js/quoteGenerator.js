@@ -92,7 +92,7 @@ $.getJSON("./json/quotes.json", function(json){
 
 
 //Share generated Quote to Twitter
-$("fa-x-twitter").click(function(){
+$(".fa-x-twitter").click(function(){
     //set string to be tweeted in suitable format and compose string in the URL 
     var tweetStr = '"'+$("h3").text() +'"' + "-"+ $("#author").text()+".";
     const tweetabletext = "https://twitter.com/intent/tweet?"  + "&text=" + encodeURIComponent(tweetStr);
